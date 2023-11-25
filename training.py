@@ -1,6 +1,7 @@
 # F2 : rename
 #  Ctrl + ذ  :  Terminal 
-# This is new comment at 9:52
+# This is comment has been changed to time : 10:00 AM
+
 x=[23,26,30,34,43,48,52,57,58] 
 y=[651,762,856,1063,1190,1298,1421,1440,1518]
 
