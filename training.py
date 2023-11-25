@@ -1,5 +1,6 @@
 # F2 : rename
 #  Ctrl + ذ  :  Terminal 
+# New comment from githup
 # This is comment has been changed to time : 10:00 AM
 
 x=[23,26,30,34,43,48,52,57,58] 
