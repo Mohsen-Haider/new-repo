@@ -85,3 +85,4 @@ Z = ( X - meanx)/math.sqrt(varx)
 
 
 
+# This is new update at 9:49 25/11/2023 
