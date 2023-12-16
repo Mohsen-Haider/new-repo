@@ -8,7 +8,7 @@
 
 x=[23,26,30,34,43,48,52,57,58] 
 y=[651,762,856,1063,1190,1298,1421,1440,1518]
-
+hello = "this is hello" 
 meanx=meany=0
 for i in range(len(x)):
     meanx+=x[i]
@@ -92,3 +92,6 @@ Z = ( X - meanx)/math.sqrt(varx)
 
 
 # This is new update at 9:49 25/11/2023 
+
+
+print(hello)
