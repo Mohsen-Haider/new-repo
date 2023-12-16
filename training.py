@@ -43,6 +43,18 @@ corrolation=beta*(math.sqrt(varx)/math.sqrt(vary))
 print("corrolation: ",corrolation)
 
 #############  
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
+hello = "this is hello" 
 
 # Confusion Metrics ( Model Evaluation metrics )
 TP=142
